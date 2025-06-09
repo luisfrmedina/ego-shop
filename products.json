@@ -1,0 +1,785 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "audemars-piguet",
+      "img": "./assets/productos/AP DORADO.webp",
+      "title": "AP ROYAL OAK DORADO",
+      "price": 35,
+      "colors": ["bg-yellow-600"]
+    },
+    {
+      "id": 2,
+      "category": "audemars-piguet",
+      "img": "https://placehold.co/600x400",
+      "title": "AP ROYAL OAK CARA VERDE",
+      "price": 35,
+      "colors": ["bg-zinc-600", "bg-green-600"]
+    },
+    {
+      "id": 3,
+      "category": "audemars-piguet",
+      "img": "https://placehold.co/600x400",
+      "title": "AP ROYAL OAK CARA VERDE",
+      "price": 35,
+      "colors": ["bg-zinc-600", "bg-green-600"]
+    },
+    {
+      "id": 4,
+      "category": "audemars-piguet",
+      "img": "https://placehold.co/600x400",
+      "title": "AP ROYAL OAK CARA VERDE",
+      "price": 35,
+      "colors": ["bg-zinc-600", "bg-green-600"]
+    },
+    {
+      "id": 5,
+      "category": "cartier",
+      "img": "https://placehold.co/600x400",
+      "title": "Cartier Santos",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 6,
+      "category": "cartier",
+      "img": "https://placehold.co/600x400",
+      "title": "Cartier Santos",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 6,
+      "category": "cartier",
+      "img": "https://placehold.co/600x400",
+      "title": "Cartier Santos",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 6,
+      "category": "cartier",
+      "img": "https://placehold.co/600x400",
+      "title": "Cartier Santos",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 6,
+      "category": "cartier",
+      "img": "https://placehold.co/600x400",
+      "title": "Cartier Santos",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 6,
+      "category": "cartier",
+      "img": "https://placehold.co/600x400",
+      "title": "Cartier Santos",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "casio",
+      "img": "https://placehold.co/600x400",
+      "title": "Casio G-Shock Comic Edition",
+      "price": 35,
+      "colors": ["bg-blue-600"]
+    },
+    {
+      "id": 7,
+      "category": "hublot",
+      "img": "https://placehold.co/600x400",
+      "title": "Hublot Big Bang Camuflaje",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "hublot",
+      "img": "https://placehold.co/600x400",
+      "title": "Hublot Big Bang Camuflaje",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "hublot",
+      "img": "https://placehold.co/600x400",
+      "title": "Hublot Big Bang Camuflaje",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "hublot",
+      "img": "https://placehold.co/600x400",
+      "title": "Hublot Big Bang Camuflaje",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "patek-philippe",
+      "img": "https://placehold.co/600x400",
+      "title": "Nautilus Patek Philippe",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "richard-mille",
+      "img": "https://placehold.co/600x400",
+      "title": "RM McLaren F1",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "richard-mille",
+      "img": "https://placehold.co/600x400",
+      "title": "RM McLaren F1",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "richard-mille",
+      "img": "https://placehold.co/600x400",
+      "title": "RM McLaren F1",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "richard-mille",
+      "img": "https://placehold.co/600x400",
+      "title": "RM McLaren F1",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "rolex",
+      "img": "https://placehold.co/600x400",
+      "title": "Rolex Submariner",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "technomarine",
+      "img": "https://placehold.co/600x400",
+      "title": "Technomarine Ocean Racer",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "tissot",
+      "img": "https://placehold.co/600x400",
+      "title": "Tissot",
+      "price": 35,
+      "colors": ["bg-black"]
+    },
+    {
+      "id": 7,
+      "category": "tissot",
+      "img": "https://placehold.co/600x400",
+      "title": "Tissot",
+      "price": 35,
+      "colors": ["bg-black"]
+    }
+    
+    
+   
+    
+    
+  ]
+}
