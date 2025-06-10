@@ -11,7 +11,7 @@
     {
       "id": 2,
       "category": "audemars-piguet",
-      "img": "https://placehold.co/600x400",
+      "img": "./assets/productos/Techno Verde.webp",
       "title": "AP ROYAL OAK CARA VERDE",
       "price": 35,
       "colors": ["bg-zinc-600", "bg-green-600"]
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "category": "audemars-piguet",
-      "img": "https://placehold.co/600x400",
+      "img": "https://images.unsplash.com/photo-1728443433557-3fc9e37b58c2?q=80&w=1890&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "title": "AP ROYAL OAK CARA VERDE",
       "price": 35,
       "colors": ["bg-zinc-600", "bg-green-600"]
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "category": "cartier",
-      "img": "https://placehold.co/600x400",
+      "img": "https://images.unsplash.com/photo-1734607947797-2a61b996fd5d?q=80&w=2100&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "title": "Cartier Santos",
       "price": 35,
       "colors": ["bg-black"]
@@ -776,10 +776,5 @@
       "price": 35,
       "colors": ["bg-black"]
     }
-    
-    
-   
-    
-    
   ]
 }
