@@ -31,11 +31,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
         card.innerHTML = `
           <div class="bg-gray-300 p-4 text-center">
-            <img
-              src="${product.img}"
-              alt="${product.title}"
-              class="mx-auto mb-2 max-w-full h-auto object-contain"
-            />
+            <div class="h-48 flex justify-center items-center">
+              <img
+                src="${product.img}"
+                alt="${product.title}"
+                class="mx-auto mb-2 max-w-full h-full object-contain"
+              />
+            </div>
             <p class="mt-2 font-medium">${product.title}</p>
             <p class="text-lg font-semibold mt-1">REF ${product.price}</p>
             <div class="flex items-center justify-center mt-2 space-x-2">
@@ -59,13 +61,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Quita el resaltado de todos los botones y restaura el color original
       categoriaBtns.forEach((b) => {
-        b.classList.remove("bg-blue-600", "font-bold");
-        b.classList.add("bg-blue-500");
+        b.classList.remove("bg-[#0E1C4F]", "font-bold");
+        b.classList.add("bg-[#03396c]");
       });
 
       // Resalta el botón clickeado
-      btn.classList.remove("bg-blue-500");
-      btn.classList.add("bg-blue-600", "font-bold");
+      btn.classList.remove("bg-[#03396c]");
+      btn.classList.add("bg-[#0E1C4F]", "font-bold");
 
       const category = btn.getAttribute("data-category");
 

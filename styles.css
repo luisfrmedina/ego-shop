@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "Brolia";
+  src: url("./assets/fonts/brolia.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Brolia", sans-serif;
+}
+
+/* Nuevas tipografías Bogart */
+@font-face {
+  font-family: "Bogart Black";
+  src: url("./assets/fonts/BOGARTBLACKTRIAL.TTF") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bogart Bold";
+  src: url("./assets/fonts/BOGARTBOLDTRIAL.TTF") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bogart Extra Light";
+  src: url("./assets/fonts/BOGARTEXTRALIGHTTRIAL.TTF") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bogart Light";
+  src: url("./assets/fonts/BOGARTLIGHTTRIAL.TTF") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bogart Medium";
+  src: url("./assets/fonts/BOGARTMEDIUMTRIAL.TTF") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Ejemplo de aplicación */
+body {
+  font-family: "Bogart Medium", sans-serif;
+}
+
+/* Puedes crear clases personalizadas para utilizar cada fuente */
+.font-bogart-black {
+  font-family: "Bogart Black", sans-serif;
+}
+
+.font-bogart-bold {
+  font-family: "Bogart Bold", sans-serif;
+}
+
+.font-bogart-extra-light {
+  font-family: "Bogart Extra Light", sans-serif;
+}
+
+.font-bogart-medium {
+  font-family: "Bogart Medium", sans-serif;
+}
+
+/* ...existing styles... */
